@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Amira!👋
+<h3 align="center">A Dedicated software developer specializing in Business Intelligence</h3>
+<h3 align="center">Proficient in SQL and PSQL with experience in data visualization using SAP Crystal Reports, Web Intelligence, and Power BI. Skilled in developing robust data solutions and generating insightful reports with Teradata SQL Assistant and Oracle SQL.</h3>
+
+- 🌟 Constantly curious and exploring.
+
+- 📫 You can always reach me at **amirag.wasfi@gmail.com**
+
+- 📄 Curious about my work life? My LinkedIn is an open book!  If you're hiring, feel free to connect and request my resume." [Amira's Linkedin] (https://www.linkedin.com/in/amira-elhoufy/).
 
 <!--
 **Amiraelhoufy/Amiraelhoufy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
