@@ -6,7 +6,8 @@
 
 - 📫 You can always reach me at **amirag.wasfi@gmail.com**
 
-- 📄 Curious about my work life? My LinkedIn is an open book!  If you're hiring, feel free to connect and request my resume." [Amira's Linkedin] (https://www.linkedin.com/in/amira-elhoufy/).
+- 📄 Curious about my work life? My LinkedIn is an open book! 
+If you're hiring, feel free to connect and request my resume [Amira's Linkedin](https://www.linkedin.com/in/amira-elhoufy/)
 
 <!--
 **Amiraelhoufy/Amiraelhoufy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
