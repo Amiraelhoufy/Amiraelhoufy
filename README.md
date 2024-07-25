@@ -1,4 +1,4 @@
-## Hi, I'm Amira!👋
+<h1 align="center">Hi, I'm Amira! 👋</h1>
 <h3 align="center">A Dedicated software developer specializing in Business Intelligence</h3>
 <h3 align="center">Proficient in SQL and PSQL with experience in data visualization using SAP Crystal Reports, Web Intelligence, and Power BI. Skilled in developing robust data solutions and generating insightful reports with Teradata SQL Assistant and Oracle SQL.</h3>
 
